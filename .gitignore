@@ -1,0 +1,4 @@
+*.pyc
+*.ttf
+CRF++-0.58
+datasets/*/*.txt
